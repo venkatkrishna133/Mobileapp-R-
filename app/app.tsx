@@ -2,8 +2,8 @@
 import React from 'react';
 import AppNavigator from './navigation/AppNavigator';
 
-const RootComponent: React.FC = () => {
+const App: React.FC = () => {
   return <AppNavigator />;
 };
 
-export default RootComponent;
+export default App;

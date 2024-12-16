@@ -3,6 +3,7 @@
     "name": "Routing-w-React-Navigation",
     "slug": "Routing-w-React-Navigation",
     "version": "1.0.0",
+    "entryPoint": "./app.js",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
